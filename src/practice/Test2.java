@@ -9,8 +9,7 @@ public class Test2 {
 		{
 			System.out.println(i);
 		}
-		
-		System.out.println("demo");
+
 
 	}
 
