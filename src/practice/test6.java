@@ -1,12 +1,10 @@
 package practice;
 
-public class Test1 {
+public class test6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.out.println("love");
-
+		System.out.println("hello");
 	}
 
 }
